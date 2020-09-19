@@ -26,7 +26,9 @@ Events to Analyze:
     * Discus
     
 Additional Work:
-    * David to work with tutor on percentage change code. Need percentage change from previous event to next.
+    * David to work with tutor on percentage change code. Need percentage change from previous event to next (gold medalist only).
     * David to work with tutor on finding how many times the gold medalist of yesterday would not make the podium as a bronze medalist.
     * David to push files into a PowerPoint file for presentation.
+    * Jeff will add missing data and labels and save command to the height and weight data
+    
     
