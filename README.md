@@ -30,5 +30,7 @@ Additional Work:
     * David to work with tutor on finding how many times the gold medalist of yesterday would not make the podium as a bronze medalist.
     * David to push files into a PowerPoint file for presentation.
     * Jeff will add missing data and labels and save command to the height and weight data
+    * David to check on overlay of slides on the PPT presentation.
+    
     
     
