@@ -1906,21 +1906,39 @@ M,Javelin Throw Men,London,1908,B,Otto NILSSON,SWE,47.11
 M,Javelin Throw Men,Stockholm,1912,G,Eric LEMMING,SWE,60.64
 M,Javelin Throw Men,Stockholm,1912,S,Juho Julius SAARISTO,FIN,58.66
 M,Javelin Throw Men,Stockholm,1912,B,Mor KOVACS,HUN,55.5
+M,Javelin Throw Men,Antwerp,1920,G,Jonni Myyra,FIN,65.78
+M,Javelin Throw Men,Antwerp,1920,S,Urho Peltonen,FIN,63.61
+M,Javelin Throw Men,Antwerp,1920,B,Paava Johansson,FIN,63.01
 M,Javelin Throw Men,Paris,1924,G,Jonni MYYRÃ,FIN,62.96
 M,Javelin Throw Men,Paris,1924,S,Gunnar LINDSTRÃM,SWE,60.92
 M,Javelin Throw Men,Paris,1924,B,Eugene OBERST,USA,58.35
 M,Javelin Throw Men,Los Angeles,1932,G,Matti JÃRVINEN,FIN,72.71
 M,Javelin Throw Men,Los Angeles,1932,S,Matti SIPPALA,FIN,69.8
 M,Javelin Throw Men,Los Angeles,1932,B,Eino PENTTILÃ,FIN,68.7
+M,Javelin Throw Men,Berlin,1936,G,Gerhard Stock ,GRM,71.84
+M,Javelin Throw Men,Berlin,1936,S,Yrjo Nikkanen,FIN,70.77
+M,Javelin Throw Men,Berlin,1936,B,Kalervo Toivonen,FIN,70.72
+M,Javelin Throw Men,London,1948,G,Tapio Rautavaara,FIN,69.77
+M,Javelin Throw Men,London,1948,S,Steve Seymour,USA,67.56
+M,Javelin Throw Men,London,1948,B,Jozef Varszegi,HUN,67.03
 M,Javelin Throw Men,Helsinki,1952,G,Cy YOUNG,USA,73.78
 M,Javelin Throw Men,Helsinki,1952,S,William Preston MILLER,USA,72.46
 M,Javelin Throw Men,Helsinki,1952,B,Toivo HYYTIÃINEN,FIN,71.89
+M,Javelin Throw Men,Melbourne / Stockholm,1956,G,Egil Danielsen,NOR,85.71
+M,Javelin Throw Men,Melbourne / Stockholm,1956,S,Janusz Sidlo,POL,79.98
+M,Javelin Throw Men,Melbourne / Stockholm,1956,B,Viktor Tsybulenko,URS,79.5
 M,Javelin Throw Men,Rome,1960,G,Viktor TSYBULENKO,URS,84.64
 M,Javelin Throw Men,Rome,1960,S,Walter KRÃGER,EUA,79.36
 M,Javelin Throw Men,Rome,1960,B,Gergely KULCSÃR,HUN,78.57
 M,Javelin Throw Men,Tokyo,1964,G,Pauli NEVALA,FIN,82.66
 M,Javelin Throw Men,Tokyo,1964,S,Gergely KULCSÃR,HUN,82.32
 M,Javelin Throw Men,Tokyo,1964,B,Yanis LUSIS,URS,80.57
+M,Javelin Throw Men,Mexico City,1968,G,Janis Lusis,URS,90.1
+M,Javelin Throw Men,Mexico City,1968,S,Jorman Kinnunen,FIN,88.58
+M,Javelin Throw Men,Mexico City,1968,B,Gergely Kulcsar,HUN,87.06
+M,Javelin Throw Men,Munich,1972,G,Klaus Wolfermann,FRG,90.48
+M,Javelin Throw Men,Munich,1972,S,Janis Lusis,URS,90.46
+M,Javelin Throw Men,Munich,1972,B,William Schmidt,USA,84.42
 M,Javelin Throw Men,Montreal,1976,G,Miklos NEMETH,HUN,94.58
 M,Javelin Throw Men,Montreal,1976,S,Hannu Juhani SIITONEN,FIN,87.92
 M,Javelin Throw Men,Montreal,1976,B,Gheorghe MEGELEA,ROU,87.16
@@ -1930,6 +1948,9 @@ M,Javelin Throw Men,Moscow,1980,B,Wolfgang HANISCH,GDR,86.72
 M,Javelin Throw Men,Los Angeles,1984,G,Arto HÃRKÃNEN,FIN,86.76
 M,Javelin Throw Men,Los Angeles,1984,S,David OTTLEY,GBR,85.74
 M,Javelin Throw Men,Los Angeles,1984,B,Kenth ELDEBRINK,SWE,83.72
+M,Javelin Throw Men,Seoul,1988,G,Tapio Korjus,FIN,84.28
+M,Javelin Throw Men,Seoul,1988,S,Jan Zelezny,TCH,84.12
+M,Javelin Throw Men,Seoul,1988,B,Seppo Raty,FIN,83.26
 M,Javelin Throw Men,Barcelona,1992,G,Jan Å½ELEZNÃ,TCH,89.66
 M,Javelin Throw Men,Barcelona,1992,S,Seppo RÃTY,FIN,86.6
 M,Javelin Throw Men,Barcelona,1992,B,Steve BACKLEY,GBR,83.38
@@ -1947,9 +1968,9 @@ M,Javelin Throw Men,Beijing,2008,S,Ainars KOVALS,LAT,86.64
 M,Javelin Throw Men,Beijing,2008,B,Tero PITKAMAKI,FIN,86.16
 M,Javelin Throw Men,London,2012,G,Keshorn WALCOTT,TTO,84.58
 M,Javelin Throw Men,London,2012,B,Antti RUUSKANEN,FIN,84.12
-M,Javelin Throw Men,Rio,2016,G,Thomas ROHLER,GER,None
-M,Javelin Throw Men,Rio,2016,S,Julius YEGO,KEN,None
-M,Javelin Throw Men,Rio,2016,B,Keshorn WALCOTT,TTO,None
+M,Javelin Throw Men,Rio,2016,G,Thomas ROHLER,GER,90.3
+M,Javelin Throw Men,Rio,2016,S,Julius YEGO,KEN,88.24
+M,Javelin Throw Men,Rio,2016,B,Keshorn WALCOTT,TTO,85.38
 W,Javelin Throw Women,Los Angeles,1932,G,Mildred DIDRIKSON,USA,43.68
 W,Javelin Throw Women,Los Angeles,1932,S,Ellen BRAUMÃLLER,GER,43.49
 W,Javelin Throw Women,Los Angeles,1932,B,Tilly FLEISCHER,GER,43
@@ -1980,6 +2001,12 @@ W,Javelin Throw Women,Montreal,1976,B,Kathryn Joan SCHMIDT,USA,63.96
 W,Javelin Throw Women,Moscow,1980,G,Maria COLON,CUB,68.4
 W,Javelin Throw Women,Moscow,1980,S,Saida GUNBA,URS,67.76
 W,Javelin Throw Women,Moscow,1980,B,Ute HOMMOLA,GDR,66.56
+W,Javelin Throw Women,Los Angeles,1984,G,Tessa Sanderson,GBR,69.56
+W,Javelin Throw Women,Los Angeles,1984,S,Tiina Lillak,FIN,69
+W,Javelin Throw Women,Los Angeles,1984,B,Fatima Whitbread,GBR,67.14
+W,Javelin Throw Women,Seoul,1988,G,Petra Felke,GDR,74.68
+W,Javelin Throw Women,Seoul,1988,S,Fatima Whitbread,GBR,70.32
+W,Javelin Throw Women,Seoul,1988,B,Beate Koch,GDR,67.3
 W,Javelin Throw Women,Barcelona,1992,G,Silke RENK,GER,68.34
 W,Javelin Throw Women,Barcelona,1992,S,Natalia SHIKOLENKO,EUN,68.26
 W,Javelin Throw Women,Barcelona,1992,B,Karen FORKEL,GER,66.86
