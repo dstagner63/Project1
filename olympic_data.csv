@@ -1536,15 +1536,30 @@ M,Discus Throw Men,London,1908,B,Marquis Franklin HORR,USA,39.45
 M,Discus Throw Men,Stockholm,1912,G,Armas TAIPALE,FIN,45.21
 M,Discus Throw Men,Stockholm,1912,S,Richard Leslie BYRD,USA,42.32
 M,Discus Throw Men,Stockholm,1912,B,James DUNCAN,USA,42.28
+M,Discus Throw Men,Antwerp,1920,G,Elmer Niklander,FIN,44.685
+M,Discus Throw Men,Antwerp,1920,S,Armas TAIPALE,FIN,44.19
+M,Discus Throw Men,Antwerp,1920,B,Gus Pope,USA,42.13
 M,Discus Throw Men,Paris,1924,G,Bud HOUSER,USA,46.155
 M,Discus Throw Men,Paris,1924,S,Vilho Aleksander NIITTYMAA,FIN,44.95
 M,Discus Throw Men,Paris,1924,B,Thomas LIEB,USA,44.83
+M,Discus Throw Men,Amsterdam,1928,G,Bud HOUSER,USA,47.32
+M,Discus Throw Men,Amsterdam,1928,S,Antero Kivi,FIN,47.23
+M,Discus Throw Men,Amsterdam,1928,B,James Corson,USA,47.1
 M,Discus Throw Men,Los Angeles,1932,G,John ANDERSON,USA,49.49
 M,Discus Throw Men,Los Angeles,1932,S,Henri LABORDE,USA,48.47
 M,Discus Throw Men,Los Angeles,1932,B,Paul WINTER,FRA,47.85
+M,Discus Throw Men,Berlin,1936,G,Ken Carpenter,USA,50.48
+M,Discus Throw Men,Berlin,1936,S,Gordon Dunn,USA,49.36
+M,Discus Throw Men,Berlin,1936,B,Giorgio Oberweger,ITA,49.23
+M,Discus Throw Men,London,1948,G,Aldolfo Consolini,ITA,52.78
+M,Discus Throw Men,London,1948,S,Giuseppe Tosi,ITA,51.78
+M,Discus Throw Men,London,1948,B,Fortune Gordien,USA,50.77
 M,Discus Throw Men,Helsinki,1952,G,Sim INESS,USA,55.03
 M,Discus Throw Men,Helsinki,1952,S,Adolfo CONSOLINI,ITA,53.78
 M,Discus Throw Men,Helsinki,1952,B,James DILLION,USA,53.28
+M,Discus Throw Men,Melbourne / Stockholm,1956,G,Al Oerter,USA,56.36
+M,Discus Throw Men,Melbourne / Stockholm,1956,S,Fortune Gordien,USA,54.81
+M,Discus Throw Men,Melbourne / Stockholm,1956,B,Des Koch,USA,54.4
 M,Discus Throw Men,Rome,1960,G,Al OERTER,USA,59.18
 M,Discus Throw Men,Rome,1960,S,Rink BABKA,USA,58.02
 M,Discus Throw Men,Rome,1960,B,Richard COCHRAN,USA,57.16
@@ -1554,6 +1569,9 @@ M,Discus Throw Men,Tokyo,1964,B,David Lawson WEILL,USA,59.49
 M,Discus Throw Men,Mexico,1968,G,Al OERTER,USA,64.78
 M,Discus Throw Men,Mexico,1968,S,Lothar MILDE,GDR,63.08
 M,Discus Throw Men,Mexico,1968,B,LudvÃ­k DANEK,TCH,62.92
+M,Discus Throw Men,Munich,1972,G,Ludv�k Dan?k,CZE,64.4
+M,Discus Throw Men,Munich,1972,S,Jay Silvester,USA,63.5
+M,Discus Throw Men,Munich,1972,B,Rciky Bruch,SWE,63.4
 M,Discus Throw Men,Montreal,1976,G,Mac WILKINS,USA,67.5
 M,Discus Throw Men,Montreal,1976,S,Wolfgang SCHMIDT,GDR,66.22
 M,Discus Throw Men,Montreal,1976,B,John POWELL,USA,65.7
@@ -1563,6 +1581,9 @@ M,Discus Throw Men,Moscow,1980,B,Luis DELIS,CUB,66.32
 M,Discus Throw Men,Los Angeles,1984,G,Rolf DANNEBERG,FRG,66.6
 M,Discus Throw Men,Los Angeles,1984,S,Mac WILKINS,USA,66.3
 M,Discus Throw Men,Los Angeles,1984,B,John POWELL,USA,65.46
+M,Discus Throw Men,Seoul,1988,G,J�rgen Schult,GDR,68.82
+M,Discus Throw Men,Seoul,1988,S,Romas UBARTAS,URS,67.78
+M,Discus Throw Men,Seoul,1988,B,Rolf DANNEBERG,FRG,67.38
 M,Discus Throw Men,Barcelona,1992,G,Romas UBARTAS,LTU,65.12
 M,Discus Throw Men,Barcelona,1992,S,JÃ¼rgen SCHULT,GER,64.94
 M,Discus Throw Men,Barcelona,1992,B,Roberto MOYA,CUB,64.12
@@ -1599,6 +1620,9 @@ W,Discus Throw Women,London,1948,B,Jacqueline MAZEAS,FRA,40.47
 W,Discus Throw Women,Helsinki,1952,G,Nina ROMASHKOVA,URS,51.42
 W,Discus Throw Women,Helsinki,1952,S,Yelizaveta BAGRYANTSEVA,URS,47.08
 W,Discus Throw Women,Helsinki,1952,B,Nina DUMBADZE,URS,46.29
+W,Discus Throw Women,Melbourne / Stockholm,1956,G,Olga Fikotova,TCH,53.69
+W,Discus Throw Women,Melbourne / Stockholm,1956,S,Irina Beglyakova,URS,52.54
+W,Discus Throw Women,Melbourne / Stockholm,1956,B,Nina Ponomaryeva,URS,51.35
 W,Discus Throw Women,Rome,1960,G,Nina ROMASHKOVA,URS,55.1
 W,Discus Throw Women,Rome,1960,S,Tamara PRESS,URS,52.59
 W,Discus Throw Women,Rome,1960,B,Lia MANOLIU,ROU,52.36
@@ -1611,12 +1635,18 @@ W,Discus Throw Women,Mexico,1968,B,Jolan KLEIBER-KONTSEK,HUN,54.9
 W,Discus Throw Women,Munich,1972,G,Faina MELNIK,URS,66.62
 W,Discus Throw Women,Munich,1972,S,Argentina MENIS,ROU,65.06
 W,Discus Throw Women,Munich,1972,B,Vassilka STOEVA,BUL,64.34
+W,Discus Throw Women,Montreal,1976,G,Evelin SCHLAAK-JAHL,GDR,69
+W,Discus Throw Women,Montreal,1976,S,Mariya Vergova,BUL,67.3
+W,Discus Throw Women,Montreal,1976,B,Gabriele Hinzmann,GDR,66.84
 W,Discus Throw Women,Moscow,1980,G,Evelin SCHLAAK-JAHL,GDR,69.96
 W,Discus Throw Women,Moscow,1980,S,Maria VERGOVA-PETKOVA,BUL,67.9
 W,Discus Throw Women,Moscow,1980,B,Tatiana LESOVAIA,URS,67.4
 W,Discus Throw Women,Los Angeles,1984,G,Ria STALMAN,NED,65.36
 W,Discus Throw Women,Los Angeles,1984,S,Leslie DENIZ,USA,64.86
 W,Discus Throw Women,Los Angeles,1984,B,Florenta CRACIUNESCU,ROU,63.64
+W,Discus Throw Women,Seoul,1988,G,Martina Hellman,GDR,72.3
+W,Discus Throw Women,Seoul,1988,S,Diana Gansky,GDR,71.88
+W,Discus Throw Women,Seoul,1988,B,Tsvetanka KHRISTOVA,BUL,69.74
 W,Discus Throw Women,Barcelona,1992,G,Maritza MARTEN,CUB,70.06
 W,Discus Throw Women,Barcelona,1992,S,Tsvetanka KHRISTOVA,BUL,67.78
 W,Discus Throw Women,Barcelona,1992,B,Daniela COSTIAN,AUS,66.24
@@ -1748,12 +1778,24 @@ M,High Jump Men,London,1908,S,Georges ANDRE,FRA,1.88
 M,High Jump Men,Stockholm,1912,G,Alma RICHARDS,USA,1.93
 M,High Jump Men,Stockholm,1912,S,Hans LIESCHE,GER,1.91
 M,High Jump Men,Stockholm,1912,B,George HORINE,USA,1.89
+M,High Jump Men,Antwerp,1920,G,Richmond Landon,USA,1.96
+M,High Jump Men,Antwerp,1920,S,Harold Muller,USA,1.9
+M,High Jump Men,Antwerp,1920,B,Bo Ekelund,SWE,1.9
 M,High Jump Men,Paris,1924,G,Harold OSBORN,USA,1.98
 M,High Jump Men,Paris,1924,S,Leroy BROWN,USA,1.95
 M,High Jump Men,Paris,1924,B,Pierre LEWDEN,FRA,1.92
+M,High Jump Men,Amsterdam,1928,G,Bob King,USA,1.94
+M,High Jump Men,Amsterdam,1928,S,Benjamin Hedges,USA,1.91
+M,High Jump Men,Amsterdam,1928,B,Claude Menard,FRA,1.91
 M,High Jump Men,Los Angeles,1932,G,Duncan MCNAUGHTON,CAN,1.97
 M,High Jump Men,Los Angeles,1932,S,Robert VAN OSDEL,USA,1.97
 M,High Jump Men,Los Angeles,1932,B,Simeon TORIBIO,PHI,1.97
+M,High Jump Men,Berlin,1936,G,Cornelius Johnson,USA,2.03
+M,High Jump Men,Berlin,1936,S,Dave Albritton,USA,2
+M,High Jump Men,Berlin,1936,B,Delos Thurber,USA,2
+M,High Jump Men,London,1948,G,John Winter,AUS,1.98
+M,High Jump Men,London,1948,S,Bjorn Paulson,NOR,1.95
+M,High Jump Men,Lon',1948,B,George Stanich,USA,1.95
 M,High Jump Men,Helsinki,1952,G,Walt DAVIS,USA,2.04
 M,High Jump Men,Helsinki,1952,S,Kenneth WIESNER,USA,2.01
 M,High Jump Men,Helsinki,1952,B,Jose TELLES DA CONCEICAO,BRA,1.98
@@ -1763,12 +1805,25 @@ M,High Jump Men,Rome,1960,B,John THOMAS,USA,2.14
 M,High Jump Men,Tokyo,1964,G,Valeri BRUMEL,URS,2.18
 M,High Jump Men,Tokyo,1964,S,John THOMAS,USA,2.18
 M,High Jump Men,Tokyo,1964,B,John RAMBO,USA,2.16
+M,High Jump Men,Mexico City,1968,G,Dick Fosbury,USA,2.24
+M,High Jump Men,Mexico City,1968,S,Ed Caruthers,USA,2.22
+M,High Jump Men,Mexico City,1968,B,Valentin Gavrilov,USR,2.2
+M,High Jump Men,Munich,1972,G,Juri Tarmak,USR,2.23
+M,High Jump Men,Munich,1972,S,Stefan Junge,CAN,2.21
+M,High Jump Men,Munich,1972,B,Dwight Stones,USA,2.21
 M,High Jump Men,Montreal,1976,G,Jacek WSZOLA,POL,2.25
 M,High Jump Men,Montreal,1976,S,Greg JOY,CAN,2.23
 M,High Jump Men,Montreal,1976,B,Dwight STONES,USA,2.21
 M,High Jump Men,Moscow,1980,G,Gerd WESSIG,GDR,2.36
 M,High Jump Men,Moscow,1980,S,Jacek WSZOLA,POL,2.31
 M,High Jump Men,Moscow,1980,B,JÃ¶rg FREIMUTH,GDR,2.31
+M,High Jump Men,Los Angeles,1984,G,Dietmar Mogenburg,GDR,2.35
+M,High Jump Men,Los Angeles,1984,S,Patrik Sjoberg,SWE,2.33
+M,High Jump Men,Los Angeles,1984,B,Zhu Jianhua,CHI,2.31
+M,High Jump Men,Seoul,1988,G,Hennadiy Avdyeyenko,USR,2.38
+M,High Jump Men,Seoul,1988,S,Hollis CONWAY,USA,2.36
+M,High Jump Men,Seoul,1988,B,Rudolf Povarnitsyn,USR,2.36
+M,High Jump Men,Seoul,1988,B,Patrik Sjoberg,SWE,2.36
 M,High Jump Men,Barcelona,1992,G,Javier SOTOMAYOR,CUB,2.34
 M,High Jump Men,Barcelona,1992,S,Patrik SJÃBERG,SWE,2.34
 M,High Jump Men,Barcelona,1992,B,Tim FORSYTH,AUS,2.34
@@ -1806,18 +1861,33 @@ W,High Jump Women,London,1948,B,Micheline OSTERMEYER,FRA,1.61
 W,High Jump Women,Helsinki,1952,G,Esther BRAND,RSA,1.67
 W,High Jump Women,Helsinki,1952,S,Sheila LERWILL,GBR,1.65
 W,High Jump Women,Helsinki,1952,B,Aleksandra CHUDINA,URS,1.63
+W,High Jump Women,Melbourne / Stockholm,1956,G,Mildred McDaniel,USA,1.76
+W,High Jump Women,Melbourne / Stockholm,1956,S,Thelma Hopkins,GBR,1.67
+W,High Jump Women,Melbourne / Stockholm,1956,S,Mariya Pisareva,USR,1.67
 W,High Jump Women,Rome,1960,G,Iolanda BALAS,ROU,1.85
 W,High Jump Women,Rome,1960,S,Dorothy SHIRLEY,GBR,1.71
 W,High Jump Women,Rome,1960,S,Jaroslawa JÃZWIAKOWSKA,POL,1.71
 W,High Jump Women,Tokyo,1964,G,Iolanda BALAS,ROU,1.9
 W,High Jump Women,Tokyo,1964,S,Michele BROWN,AUS,1.8
 W,High Jump Women,Tokyo,1964,B,Taisiya CHENCHIK,URS,1.78
+W,High Jump Women,Mexico City,1968,G,Miloslava Rezkova,TCH,1.82
+W,High Jump Women,Mexico City,1968,S,Anonina Okorokova,URS,1.8
+W,High Jump Women,Mexico City,1968,B,Valentina Kozyr,URS,1.8
+W,High Jump Women,Munich,1972,G,Ulrike Meyfarth,GDR,1.92
+W,High Jump Women,Munich,1972,S,Yordanka BLAGOEVA-DIMITROVA,BUL,1.88
+W,High Jump Women,Munich,1972,B,Ilona Gusenbauer,AUS,1.88
 W,High Jump Women,Montreal,1976,G,Rosemarie WITSCHAS-ACKERMANN,GDR,1.93
 W,High Jump Women,Montreal,1976,S,Sara SIMEONI,ITA,1.91
 W,High Jump Women,Montreal,1976,B,Yordanka BLAGOEVA-DIMITROVA,BUL,1.91
 W,High Jump Women,Moscow,1980,G,Sara SIMEONI,ITA,1.97
 W,High Jump Women,Moscow,1980,S,Urszula KIELAN,POL,1.94
 W,High Jump Women,Moscow,1980,B,Jutta KIRST,GDR,1.94
+W,High Jump Women,Los Angeles,1984,G,Ulrike Meyfarth,GDR,2.02
+W,High Jump Women,Los Angeles,1984,S,Sara Simeoni,ITA,2
+W,High Jump Women,Los Angeles,1984,B,Joni Hunter,USA,1.97
+W,High Jump Women,Seoul,1988,G,Louise Ritter,USA,2.03
+W,High Jump Women,Seoul,1988,S,Stefka KOSTADINOVA,BUL,2.01
+W,High Jump Women,Seoul,1988,B,Tamara Bykova,USR,1.99
 W,High Jump Women,Barcelona,1992,G,Heike HENKEL,GER,2.02
 W,High Jump Women,Barcelona,1992,S,Galina ASTAFEI,ROU,2
 W,High Jump Women,Barcelona,1992,B,Joanet QUINTERO,CUB,1.97
@@ -1845,21 +1915,39 @@ M,Javelin Throw Men,London,1908,B,Otto NILSSON,SWE,47.11
 M,Javelin Throw Men,Stockholm,1912,G,Eric LEMMING,SWE,60.64
 M,Javelin Throw Men,Stockholm,1912,S,Juho Julius SAARISTO,FIN,58.66
 M,Javelin Throw Men,Stockholm,1912,B,Mor KOVACS,HUN,55.5
+M,Javelin Throw Men,Antwerp,1920,G,Jonni Myyra,FIN,65.78
+M,Javelin Throw Men,Antwerp,1920,S,Urho Peltonen,FIN,63.61
+M,Javelin Throw Men,Antwerp,1920,B,Paava Johansson,FIN,63.01
 M,Javelin Throw Men,Paris,1924,G,Jonni MYYRÃ,FIN,62.96
 M,Javelin Throw Men,Paris,1924,S,Gunnar LINDSTRÃM,SWE,60.92
 M,Javelin Throw Men,Paris,1924,B,Eugene OBERST,USA,58.35
 M,Javelin Throw Men,Los Angeles,1932,G,Matti JÃRVINEN,FIN,72.71
 M,Javelin Throw Men,Los Angeles,1932,S,Matti SIPPALA,FIN,69.8
 M,Javelin Throw Men,Los Angeles,1932,B,Eino PENTTILÃ,FIN,68.7
+M,Javelin Throw Men,Berlin,1936,G,Gerhard Stock ,GRM,71.84
+M,Javelin Throw Men,Berlin,1936,S,Yrjo Nikkanen,FIN,70.77
+M,Javelin Throw Men,Berlin,1936,B,Kalervo Toivonen,FIN,70.72
+M,Javelin Throw Men,London,1948,G,Tapio Rautavaara,FIN,69.77
+M,Javelin Throw Men,London,1948,S,Steve Seymour,USA,67.56
+M,Javelin Throw Men,London,1948,B,Jozef Varszegi,HUN,67.03
 M,Javelin Throw Men,Helsinki,1952,G,Cy YOUNG,USA,73.78
 M,Javelin Throw Men,Helsinki,1952,S,William Preston MILLER,USA,72.46
 M,Javelin Throw Men,Helsinki,1952,B,Toivo HYYTIÃINEN,FIN,71.89
+M,Javelin Throw Men,Melbourne / Stockholm,1956,G,Egil Danielsen,NOR,85.71
+M,Javelin Throw Men,Melbourne / Stockholm,1956,S,Janusz Sidlo,POL,79.98
+M,Javelin Throw Men,Melbourne / Stockholm,1956,B,Viktor Tsybulenko,URS,79.5
 M,Javelin Throw Men,Rome,1960,G,Viktor TSYBULENKO,URS,84.64
 M,Javelin Throw Men,Rome,1960,S,Walter KRÃGER,EUA,79.36
 M,Javelin Throw Men,Rome,1960,B,Gergely KULCSÃR,HUN,78.57
 M,Javelin Throw Men,Tokyo,1964,G,Pauli NEVALA,FIN,82.66
 M,Javelin Throw Men,Tokyo,1964,S,Gergely KULCSÃR,HUN,82.32
 M,Javelin Throw Men,Tokyo,1964,B,Yanis LUSIS,URS,80.57
+M,Javelin Throw Men,Mexico City,1968,G,Janis Lusis,URS,90.1
+M,Javelin Throw Men,Mexico City,1968,S,Jorman Kinnunen,FIN,88.58
+M,Javelin Throw Men,Mexico City,1968,B,Gergely Kulcsar,HUN,87.06
+M,Javelin Throw Men,Munich,1972,G,Klaus Wolfermann,FRG,90.48
+M,Javelin Throw Men,Munich,1972,S,Janis Lusis,URS,90.46
+M,Javelin Throw Men,Munich,1972,B,William Schmidt,USA,84.42
 M,Javelin Throw Men,Montreal,1976,G,Miklos NEMETH,HUN,94.58
 M,Javelin Throw Men,Montreal,1976,S,Hannu Juhani SIITONEN,FIN,87.92
 M,Javelin Throw Men,Montreal,1976,B,Gheorghe MEGELEA,ROU,87.16
@@ -1869,6 +1957,9 @@ M,Javelin Throw Men,Moscow,1980,B,Wolfgang HANISCH,GDR,86.72
 M,Javelin Throw Men,Los Angeles,1984,G,Arto HÃRKÃNEN,FIN,86.76
 M,Javelin Throw Men,Los Angeles,1984,S,David OTTLEY,GBR,85.74
 M,Javelin Throw Men,Los Angeles,1984,B,Kenth ELDEBRINK,SWE,83.72
+M,Javelin Throw Men,Seoul,1988,G,Tapio Korjus,FIN,84.28
+M,Javelin Throw Men,Seoul,1988,S,Jan Zelezny,TCH,84.12
+M,Javelin Throw Men,Seoul,1988,B,Seppo Raty,FIN,83.26
 M,Javelin Throw Men,Barcelona,1992,G,Jan Å½ELEZNÃ,TCH,89.66
 M,Javelin Throw Men,Barcelona,1992,S,Seppo RÃTY,FIN,86.6
 M,Javelin Throw Men,Barcelona,1992,B,Steve BACKLEY,GBR,83.38
@@ -1886,9 +1977,9 @@ M,Javelin Throw Men,Beijing,2008,S,Ainars KOVALS,LAT,86.64
 M,Javelin Throw Men,Beijing,2008,B,Tero PITKAMAKI,FIN,86.16
 M,Javelin Throw Men,London,2012,G,Keshorn WALCOTT,TTO,84.58
 M,Javelin Throw Men,London,2012,B,Antti RUUSKANEN,FIN,84.12
-M,Javelin Throw Men,Rio,2016,G,Thomas ROHLER,GER,None
-M,Javelin Throw Men,Rio,2016,S,Julius YEGO,KEN,None
-M,Javelin Throw Men,Rio,2016,B,Keshorn WALCOTT,TTO,None
+M,Javelin Throw Men,Rio,2016,G,Thomas ROHLER,GER,90.3
+M,Javelin Throw Men,Rio,2016,S,Julius YEGO,KEN,88.24
+M,Javelin Throw Men,Rio,2016,B,Keshorn WALCOTT,TTO,85.38
 W,Javelin Throw Women,Los Angeles,1932,G,Mildred DIDRIKSON,USA,43.68
 W,Javelin Throw Women,Los Angeles,1932,S,Ellen BRAUMÃLLER,GER,43.49
 W,Javelin Throw Women,Los Angeles,1932,B,Tilly FLEISCHER,GER,43
@@ -1919,6 +2010,12 @@ W,Javelin Throw Women,Montreal,1976,B,Kathryn Joan SCHMIDT,USA,63.96
 W,Javelin Throw Women,Moscow,1980,G,Maria COLON,CUB,68.4
 W,Javelin Throw Women,Moscow,1980,S,Saida GUNBA,URS,67.76
 W,Javelin Throw Women,Moscow,1980,B,Ute HOMMOLA,GDR,66.56
+W,Javelin Throw Women,Los Angeles,1984,G,Tessa Sanderson,GBR,69.56
+W,Javelin Throw Women,Los Angeles,1984,S,Tiina Lillak,FIN,69
+W,Javelin Throw Women,Los Angeles,1984,B,Fatima Whitbread,GBR,67.14
+W,Javelin Throw Women,Seoul,1988,G,Petra Felke,GDR,74.68
+W,Javelin Throw Women,Seoul,1988,S,Fatima Whitbread,GBR,70.32
+W,Javelin Throw Women,Seoul,1988,B,Beate Koch,GDR,67.3
 W,Javelin Throw Women,Barcelona,1992,G,Silke RENK,GER,68.34
 W,Javelin Throw Women,Barcelona,1992,S,Natalia SHIKOLENKO,EUN,68.26
 W,Javelin Throw Women,Barcelona,1992,B,Karen FORKEL,GER,66.86
